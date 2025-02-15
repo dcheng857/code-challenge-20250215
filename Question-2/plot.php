@@ -51,3 +51,6 @@ foreach ($dataPoints as $point) {
 foreach ($grid as $row) {
     echo implode('', $row) . "\n";
 }
+
+// Conclusions:
+// The plots are representing a banana.
